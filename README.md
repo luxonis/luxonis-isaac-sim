@@ -13,8 +13,10 @@ This document provides camera parameters for integrating Luxonis OAK depth camer
 **Reference Documentation:**
 - [Isaac Sim Camera Sensors](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/sensors/isaacsim_sensors_camera.html)
 - [Camera and Depth Sensor Assets](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/assets/usd_assets_camera_depth_sensors.html)
+- [Luxonis OAK Devices](https://docs.luxonis.com/hardware/)
 - [Luxonis OAK Depth Accuracy](https://docs.luxonis.com/hardware/platform/depth/depth-accuracy/)
 - [Luxonis Supported Sensors](https://docs.luxonis.com/hardware/platform/sensors/sensors/)
+- [Luxonis Shop](https://shop.luxonis.com/)
 
 ### Camera Generations
 
@@ -40,6 +42,10 @@ The RVC4-based OAK4-D offers improved depth accuracy (~25% better at close range
 | OAK4-D | RVC4 | ~68° | ~77° | *TBD* |
 | OAK4-D Wide | RVC4 | ~88° | ~97° | *TBD* |
 | OAK-D ToF | RVC2 | ~70° (ToF) | ~80° | *TBD* |
+
+---
+
+Interested on any device? [Visit our shop](https://shop.luxonis.com/)
 
 ---
 
