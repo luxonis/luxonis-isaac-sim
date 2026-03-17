@@ -37,11 +37,11 @@ The RVC4-based OAK4-D offers improved depth accuracy (~25% better at close range
 
 | Model | Generation | RGB HFOV | Stereo HFOV | USD Asset |
 |-------|------------|----------|-------------|-----------|
-| OAK-D Pro PoE | RVC2 | ~64° | ~77° | `TBD` |
-| OAK-D Pro W PoE | RVC2 | ~80° | ~97° | `TBD` |
-| OAK4-D | RVC4 | ~68° | ~77° | *TBD* |
-| OAK4-D Wide | RVC4 | ~88° | ~97° | *TBD* |
-| OAK-D ToF | RVC2 | ~70° (ToF) | ~80° | *TBD* |
+| OAK-D Pro PoE | RVC2 | ~64° | ~77° | [Download](https://luxonis-isaac-sim.fra1.cdn.digitaloceanspaces.com/Luxonis.usd) |
+| OAK-D Pro W PoE | RVC2 | ~80° | ~97° | [Download](https://luxonis-isaac-sim.fra1.cdn.digitaloceanspaces.com/oak_d_pro_w.usd) |
+| OAK4-D | RVC4 | ~68° | ~77° | [Download](https://luxonis-isaac-sim.fra1.cdn.digitaloceanspaces.com/oak4_d.usd) |
+| OAK4-D Wide | RVC4 | ~88° | ~97° | [Download](https://luxonis-isaac-sim.fra1.cdn.digitaloceanspaces.com/oak_d_pro_w.usd) |
+| OAK-D ToF | RVC2 | ~70° (ToF) | ~80° | [Download](https://luxonis-isaac-sim.fra1.cdn.digitaloceanspaces.com/oak_tof.usd) |
 
 ---
 
