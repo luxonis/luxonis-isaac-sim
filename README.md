@@ -8,6 +8,8 @@
 
 This document provides camera parameters for integrating Luxonis OAK depth cameras with NVIDIA Isaac Sim. Each camera model has its own section with nominal spec-sheet parameters and computed USD parameters.
 
+[Download USD files](#download-links)
+
 **Isaac Sim Version:** 5.1+
 
 **Reference Documentation:**
@@ -34,6 +36,8 @@ The RVC4-based OAK4-D offers improved depth accuracy (~25% better at close range
 ![](media/oaks-cover-2.png)
 ![](media/oaks-cover-1.png)
 ![](media/oak-tof.png)
+
+#### Download links
 
 | Model | Generation | RGB HFOV | Stereo HFOV | USD Asset |
 |-------|------------|----------|-------------|-----------|
