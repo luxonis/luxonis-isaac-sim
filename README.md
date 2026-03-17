@@ -273,7 +273,7 @@ The `Camera_pseudo_depth` is a virtual camera used by Isaac Sim's depth sensor s
 
 #### Quick Start
 
-Drag and drop `Luxonis/Oak-D-Pro-Poe/Luxonis.usd`
+Drag and drop USD file into the Stage 
 
 ![](media/oak-d-pro-isaac-2.png)
 
@@ -442,7 +442,7 @@ The distortion parameters (polyK0-polyK5, p0, p1, s0-s3) are set to default and 
 
 #### Quick Start
 
-Drag and drop `Luxonis/Oak-D-Pro-W-Poe/Luxonis.usd`
+Drag and drop USD file into the Stage 
 
 #### Device Information
 
@@ -615,7 +615,7 @@ The distortion parameters (polyK0-polyK5, p0, p1, s0-s3) are set to default and 
 
 #### Quick Start
 
-Drag and drop *TBD — USD asset not yet available*
+Drag and drop USD file into the Stage 
 
 #### Device Information
 
@@ -807,7 +807,7 @@ The distortion parameters (polyK0-polyK5, p0, p1, s0-s3) are set to default and 
 
 #### Quick Start
 
-Drag and drop *TBD — USD asset not yet available*
+Drag and drop USD file into the Stage 
 
 #### Theoretical Intrinsics & USD Conversion
 
